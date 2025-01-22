@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "iajunior506@gmail.com",
+    "password": "2010",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,15 +17,15 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100090405019929"
+    "100052648010710"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "༺『 𝐇𝐄𝐍𝐓𝐀𝐈ᬊ᭄𝐒𝐀𝐍 』༻",
-  "prefix": "#",
+  "nickNameBot": "𝗝𝗥 𝗕𝗢𝗧",
+  "prefix": "★",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
